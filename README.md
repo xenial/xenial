@@ -1,6 +1,6 @@
 ### s(t)ackwarrior
 
-Finland. I build plugins that keep coding agents working unattended, and I write C++ when I want to get close to the metal.
+[viha.sh](https://viha.sh) · [llm-id.sh](https://llm-id.sh) · [Discord](https://discord.gg/viha)
 
 #### OpenCode plugins
 
