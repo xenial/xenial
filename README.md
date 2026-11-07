@@ -19,5 +19,3 @@ opencode plugin add github:xenial/<name>
 
 - [**algorithms**](https://github.com/xenial/algorithms): competitive programming solutions in C++
 - [**motion**](https://github.com/xenial/motion): internal CS:GO base with a CreateMove hook and an ImGui menu
-
-<sub>TypeScript · JavaScript · C++</sub>
